@@ -9,3 +9,4 @@ Even if you don't have any python IDE installed in your laptop or PC, you can do
 https://drive.google.com/drive/folders/1SyGYdFm01n3cnGLP5p9gKowE-cn20Kyd?usp=sharing
 
 When you apply filter and press snap dat button then the picture is clicked and saved into a folder named "Snap" in the same location where you are running the code
+![Preview](https://user-images.githubusercontent.com/74989402/139310370-5afe7a31-e68e-4181-a2bc-d30cf9dee533.PNG)
